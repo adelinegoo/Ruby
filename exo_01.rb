@@ -1,2 +1,1 @@
-
-irb > puts "Bonjour, monde!"
+puts = "hello world!" 
